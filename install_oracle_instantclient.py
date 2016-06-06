@@ -72,7 +72,7 @@ class SystemSetup(object):
             directory_containing_rpms))[0]
 
         oracle_version = re.findall(
-            u'instantclient([0-9.]+)', self.rpm_files['basic'])[0]
+            u'instantclient-basic-([0-9.]+)', self.rpm_files['basic'])[0]
 
         _install_alien()
         _install_libaio1()
