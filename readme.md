@@ -1,4 +1,6 @@
-##Easy Installation of Oracle Instant Client on Ubuntu/Debian Linux
+# DEPRECATED: Do not use. This no longer works and I am not going to be updating it.
+
+## Easy Installation of Oracle Instant Client on Ubuntu/Debian Linux
 Version 1.1
 
 If you've ever had to mess with installing and configuring the Oracle Instant 
